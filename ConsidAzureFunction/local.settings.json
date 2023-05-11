@@ -1,0 +1,9 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "LogsTableName": "logs",
+    "PayloadsContainerName": "payloads",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet"
+  }
+}
