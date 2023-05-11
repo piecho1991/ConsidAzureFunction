@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33424.131
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsidAzureFunction", "FunctionApp1\ConsidAzureFunction.csproj", "{0C42EE44-36C9-446D-A858-0933FF9E011B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsidAzureFunction", "ConsidAzureFunction\ConsidAzureFunction.csproj", "{0C42EE44-36C9-446D-A858-0933FF9E011B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
